@@ -7,50 +7,51 @@
 
 > Stay Practical
 
-There are a few common areas of focus in [Information Security](../62-Encyclopedic/20220419105949%20Information%20Security.md):
+There are a few common areas of focus in [Information Security](20220419105949-Information-Security.md):
 
-- Areas of Focus in [InfoSec](../62-Encyclopedic/20220419105949-information-security.md)
+- Areas of Focus in [InfoSec](20220419105949-information-security.md)
   - Hacking Computers
   - Website Security
   - Cybersecurity Law
   - Sales Engineer
   - Cloud Security
   - Programming
-- [InfoSec Jobs](../62-Encyclopedic/20220419100219%20InfoSec%20Jobs.md)
-- Teaching myself [infosec](../62-Encyclopedic/20220419105949-information-security.md)
-  - [20220419102952 Skills required in InfoSec](../62-Encyclopedic/20220419102952%20Skills%20required%20in%20InfoSec.md)
+- [InfoSec Jobs](20220419100219-InfoSec-Jobs.md)
+- Teaching myself [infosec](20220419105949-information-security.md)
+  - [20220419102952 Skills required in InfoSec](20220419102952-Skills-required-in-InfoSec.md)
 
 ## Some Resources
 
-- [List of Resources > INFOSEC](List%20of%20Resources#INFOSEC)
-- [資訊安全網: 保安證書](https://www.infosec.gov.hk/tc/useful-resources/security-certifications) 
+- [List of Resources > INFOSEC](List-of-Resources#INFOSEC)
+- [資訊安全網: 保安證書](https://www.infosec.gov.hk/tc/useful-resources/security-certifications)
 
 ## Certifications
 
 1. [ ] COMP TIA A+
 2. [ ] COMPTIA Net+
 3. [ ] COMP TIA Sec+
-	1. Knows the words the industry uses 
-	2. 
+   1. Knows the words the industry uses
+   2.
 4. [ ] COMPTIA PenTest+
 5. [ ] eLearnSecurity EJPT
 6. [ ] eCPPT
 7. [ ] OSCP (Goal)
-	1. Ok, maybe you know what ur doing 
+   1. Ok, maybe you know what ur doing
 
 > [!note]
->Other possible choices 
->- FWIW 
->- SSCP 
->- CISM
->- CISSP
->    - You want to be a manager 
->- CySA+
->- AWS Solutions Architect Associates 
->- AWS-CSAA 
->- AWS Security speciality
->- CISP （註冊信息安全專業人員）
->- CISM （註冊信息人員）
+> Other possible choices
+>
+> - FWIW
+> - SSCP
+> - CISM
+> - CISSP
+>   - You want to be a manager
+> - CySA+
+> - AWS Solutions Architect Associates
+> - AWS-CSAA
+> - AWS Security speciality
+> - CISP （註冊信息安全專業人員）
+> - CISM （註冊信息人員）
 
 > [!warning]
-> Avoid C|EH and EC-Council 
+> Avoid C|EH and EC-Council
