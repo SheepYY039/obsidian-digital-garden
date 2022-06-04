@@ -30,14 +30,14 @@
 
 ## Existing Solutions for Executing Blockchain Interoperability
 
-1. [LayerZero](20220410230058%20LayerZero.md)
+1. [LayerZero](20220410230058-LayerZero.md)
 2. [Cosmos](Cosmos)
 3. [Polkadot](Polkadot)
 4. [Harmony](Harmony)
 5. [Wanchian](Wanchian)
 6. [Chainlink](Chainlink)
 7. [Hybrix](Hybrix)
-8. [Loom network](Loom%20network)
+8. [Loom network](Loom-network)
 
 ## References
 
