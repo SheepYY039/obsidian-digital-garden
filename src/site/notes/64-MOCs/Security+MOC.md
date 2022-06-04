@@ -26,36 +26,36 @@
 
 ### 1.1 - Compare and Contrast Different Types of Social Engineering Techniques
 
-- [[../62-Encyclopedic/20220513183720-phishing|Phishing]]
-- [[../62-Encyclopedic/20220515152811-smishing|Smishing]]
-- [[../62-Encyclopedic/20220515152106-vishing|Vishing]]
-- [[../62-Encyclopedic/20220515180310-spam|Spam]]
-- [[../62-Encyclopedic/20220515180426-spim|SPIM]]
+- [[62-Encyclopedic/62.01-security-plus/20220513183720-phishing|Phishing]]
+- [[62-Encyclopedic/62.01-security-plus/20220515152811-smishing|Smishing]]
+- [[62-Encyclopedic/62.01-security-plus/20220515152106-vishing|Vishing]]
+- [[62-Encyclopedic/62.01-security-plus/20220515180310-spam|Spam]]
+- [[62-Encyclopedic/62.01-security-plus/20220515180426-spim|SPIM]]
 - [[62-Encyclopedic/62.01-security-plus/20220515154103-spear-phishing|Spear phishing]]
 - Business email compromise
-- [[../62-Encyclopedic/20220515170344-dumpster-diving|Dumpster diving]]
-- [[../62-Encyclopedic/20220513184858-pretexting|Pretexting]]
-- [[../62-Encyclopedic/20220515171630-shoulder-surfing|Shoulder surfing]]
-- [[../62-Encyclopedic/20220513185341-pharming|Pharming]]
+- [[62-Encyclopedic/62.01-security-plus/20220515170344-dumpster-diving|Dumpster diving]]
+- [[62-Encyclopedic/62.01-security-plus/20220513184858-pretexting|Pretexting]]
+- [[62-Encyclopedic/62.01-security-plus/20220515171630-shoulder-surfing|Shoulder surfing]]
+- [[62-Encyclopedic/62.01-security-plus/20220513185341-pharming|Pharming]]
 - [[62-Encyclopedic/20220515201136-tailgating|Tailgating]] and piggybacking
-- [[../62-Encyclopedic/20220515164411-eliciting-information|Eliciting information]]
-- [[../62-Encyclopedic/20220515154359-whaling|Whaling]]
-- [[62-Encyclopedic/62.01-security-plus/20220513184545-typosquatting|Typosquatting: Prepending]] 
+- [[62-Encyclopedic/62.01-security-plus/20220515164411-eliciting-information|Eliciting information]]
+- [[62-Encyclopedic/62.01-security-plus/20220515154359-whaling|Whaling]]
+- [[62-Encyclopedic/62.01-security-plus/20220513184545-typosquatting|Typosquatting: Prepending]]
 - [[62-Encyclopedic/62.01-security-plus/20220515164936-identity-fraud|Identity theft/ fraud]]
-- Identify fraud 
+- Identify fraud
 - Spoofing
-- [[62-Encyclopedic/20220515202117-invoice-scam|Invoice scam]] 
+- [[62-Encyclopedic/20220515202117-invoice-scam|Invoice scam]]
 - [[62-Encyclopedic/20220515202739-credential-harvesting|Credential Harvesting]]
 - Reconnaissance
-- [[62-Encyclopedic/62.01-security-plus/20220515172412-computer-hoaxes|Hoax]] 
-- [[../62-Encyclopedic/20220515163456-impersonation|Impersonation]]
+- [[62-Encyclopedic/62.01-security-plus/20220515172412-computer-hoaxes|Hoax]]
+- [[62-Encyclopedic/62.01-security-plus/20220515163456-impersonation|Impersonation]]
 - [[62-Encyclopedic/62.01-security-plus/20220515173904-watering-hole-attack|Watering Hole Attack]]
-- [[../62-Encyclopedic/20220513184545-typosquatting|Typosquatting]]
+- [[62-Encyclopedic/62.01-security-plus/20220513184545-typosquatting|Typosquatting]]
 - URL Hijacking
 - Clickjacking
 - [[62-Encyclopedic/62.01-security-plus/20220603151623-sidejacking|Session hijacking]]
 - [[62-Encyclopedic/20220515195138-influence-campaign|Influence campaign]]
-- Doxing 
+- Doxing
 - [[62-Encyclopedic/20220515195815-hybrid-warfare|Hybrid warfare]]
 - Principles of [[62-Encyclopedic/20220515203457-social-engineering|social engineering]]
 
@@ -65,11 +65,11 @@
 - [[62-Encyclopedic/20220516120133-ransomware|Ransomware]]
 - [[62-Encyclopedic/62.01-security-plus/20220602143703-trojan|Trojan]]
 - [[62-Encyclopedic/20220516114123-worm|Worm]]
-- [[62-Encyclopedic/62.01-security-plus/20220602144849-potentially-unwanted-program|PUPs]] 
-- Fileless virus 
+- [[62-Encyclopedic/62.01-security-plus/20220602144849-potentially-unwanted-program|PUPs]]
+- Fileless virus
 - [[62-Encyclopedic/62.01-security-plus/20220602180039-command-and-control-server|Command and Control]]
 - [[62-Encyclopedic/62.01-security-plus/20220602172655-bots|Bots]] and [[62-Encyclopedic/62.01-security-plus/20220602175910-botnet|botnets]]
-- [[62-Encyclopedic/20220516121559-crypto-malware|Crypto malware]] 
+- [[62-Encyclopedic/20220516121559-crypto-malware|Crypto malware]]
 - [[62-Encyclopedic/62.01-security-plus/20220602181632-logic-bomb|Logic bombs]]
 - [[62-Encyclopedic/62.01-security-plus/20220602171640-spyware|Spyware]]
 - [[62-Encyclopedic/62.01-security-plus/20220602171234-adware|Adware]]
@@ -77,12 +77,12 @@
 - [[62-Encyclopedic/62.01-security-plus/20220602150504-remote-access-trojan|RAT]]
 - [[62-Encyclopedic/62.01-security-plus/20220602151719-rootkit|Rootkit]]
 - [[62-Encyclopedic/62.01-security-plus/20220602145709-backdoor|Backdoor]] attacks
-- [[62-Encyclopedic/62.01-security-plus/20220602184323-password-attack|Password Attacks]] 
-	- [[62-Encyclopedic/62.01-security-plus/20220602185533-spraying-attack|Spraying]] and stuffing
-	- [[62-Encyclopedic/62.01-security-plus/20220602204704-dictionary-attack|Dictionary attacks]] 
-	- [[62-Encyclopedic/62.01-security-plus/20220602203501-brute-force-attck|Brute-force attack]]
-	- Online vs. Offline password cracking
-	- [[62-Encyclopedic/62.01-security-plus/20220602205318-rainbow-tables|Rainbow tables]]
+- [[62-Encyclopedic/62.01-security-plus/20220602184323-password-attack|Password Attacks]]
+  - [[62-Encyclopedic/62.01-security-plus/20220602185533-spraying-attack|Spraying]] and stuffing
+  - [[62-Encyclopedic/62.01-security-plus/20220602204704-dictionary-attack|Dictionary attacks]]
+  - [[62-Encyclopedic/62.01-security-plus/20220602203501-brute-force-attck|Brute-force attack]]
+  - Online vs. Offline password cracking
+  - [[62-Encyclopedic/62.01-security-plus/20220602205318-rainbow-tables|Rainbow tables]]
 - Malicious USB cables and flash drives
 - [[62-Encyclopedic/62.01-security-plus/20220602215809-card-cloning|Card cloning]] and [[62-Encyclopedic/62.01-security-plus/20220602214930-skimming|skimming]]
 - Adversarial AI
@@ -96,14 +96,14 @@
 - [[62-Encyclopedic/62.01-security-plus/20220603113047-cross-site-scripting#Protecting Against XSS|XSS prevention]]
 - Metacharacters
 - [[62-Encyclopedic/62.01-security-plus/20220603120659-injection-attacks|Injection attacks]]
-	- Command injection
-	- [[62-Encyclopedic/62.01-security-plus/20220603120721-code-injection|Code injection]]
-	- HTML injection
-	- File injection
-	- [[62-Encyclopedic/62.01-security-plus/20220603130513-sql-injection|SQL injection]]
-	- [[62-Encyclopedic/62.01-security-plus/20220603134318-dynamic-link-library|DLL]] injection
-	- [[62-Encyclopedic/62.01-security-plus/20220603130937-ldap-injection|LDAP injection]]
-	- [[62-Encyclopedic/62.01-security-plus/20220603130658-xml-injection|XML injection]]
+  - Command injection
+  - [[62-Encyclopedic/62.01-security-plus/20220603120721-code-injection|Code injection]]
+  - HTML injection
+  - File injection
+  - [[62-Encyclopedic/62.01-security-plus/20220603130513-sql-injection|SQL injection]]
+  - [[62-Encyclopedic/62.01-security-plus/20220603134318-dynamic-link-library|DLL]] injection
+  - [[62-Encyclopedic/62.01-security-plus/20220603130937-ldap-injection|LDAP injection]]
+  - [[62-Encyclopedic/62.01-security-plus/20220603130658-xml-injection|XML injection]]
 - Pointer dereference
 - Directory traversal
 - Buffer overflows
@@ -247,39 +247,39 @@
 - Baseline configuration
 - Data sovereignty
 - Data protection
-	- DLP
-	- Masking 
-	- [[62-Encyclopedic/62.01-security-plus/20220602130052-encryption|Encryption]] 
-	- At rest 
-	- In transit/ motion 
-	- In processing 
-	- Tokenization 
-	- Rights management 
+  - DLP
+  - Masking
+  - [[62-Encyclopedic/62.01-security-plus/20220602130052-encryption|Encryption]]
+  - At rest
+  - In transit/ motion
+  - In processing
+  - Tokenization
+  - Rights management
 - Data states
 - SSL/TLS
 - SSL/TLS inspection
 - Site resiliency
-	- Hot site 
-	- Cold site 
-	- Warm site 
-- Deception and distruption 
-	- Honeypot
-	- Honeyfiles
-	- Honeynets 
-	- Fake telemetry
-	- DNS sinkhole
+  - Hot site
+  - Cold site
+  - Warm site
+- Deception and distruption
+  - Honeypot
+  - Honeyfiles
+  - Honeynets
+  - Fake telemetry
+  - DNS sinkhole
 
 ### 2.2 - Summarize Virtualization and Cloud Computing Concepts
 
 - Cloud deployment models
-	- [[62-Encyclopedic/20220319194552-iaas|IaaS]]
-	- [[62-Encyclopedic/20220319194648-paas|PaaS]]
-	- [[62-Encyclopedic/20220319194721-saas|SaaS]]
-	- XaaS
-	- Public
-	- Community
-	- Private
-	- Hybrid
+  - [[62-Encyclopedic/20220319194552-iaas|IaaS]]
+  - [[62-Encyclopedic/20220319194648-paas|PaaS]]
+  - [[62-Encyclopedic/20220319194721-saas|SaaS]]
+  - XaaS
+  - Public
+  - Community
+  - Private
+  - Hybrid
 - Cloud storage
 - SECaaS
 - Cloud service providers
@@ -357,19 +357,19 @@
 - Fault tolerance
 - Geographic dispersal
 - RAID
-	- 0
-	- 1
-	- 5
-	- 6
+  - 0
+  - 1
+  - 5
+  - 6
 - Multipath
 - Load balancers
 - NIC teaming
 - Replication
 - Backups
 - Common types of backups
-	- Full
-	- Incremental
-	- Differential
+  - Full
+  - Incremental
+  - Differential
 - Snapshots
 - Non-persistence
 - Revert to a known state
@@ -490,15 +490,15 @@
 ### 3.3 - Given a Scenario, Implement Secure Network Designs
 
 - Load balancers
-	- Optimize infrastructure utilization
-		- Techniques
-			- Random choice
-			- Round robin
-			- Load monitoring
-			- Preferencing/weighted
-			- Least connections/traffic/latency
-			- Locality-based (geo)
-			- Locality-based (affinity)
+  - Optimize infrastructure utilization
+    - Techniques
+      - Random choice
+      - Round robin
+      - Load monitoring
+      - Preferencing/weighted
+      - Least connections/traffic/latency
+      - Locality-based (geo)
+      - Locality-based (affinity)
 - Active/active
 - Active/passive
 - Network segmentation
@@ -556,13 +556,13 @@
 ### 3.5 - Given a Scenario, Implement Secure Mobile Solutions
 
 - Various connection methods
-	- Cellular - tech used by mobile phones, encrypted over “air” but essentially plain text once on wires.
-	- Wifi
-	- Bluetooth
-	- ANT
-	- [[62-Encyclopedic/20220318212514-nfc|NFC]] - See 1.4
-	- Infrared
-	- USB
+  - Cellular - tech used by mobile phones, encrypted over “air” but essentially plain text once on wires.
+  - Wifi
+  - Bluetooth
+  - ANT
+  - [[62-Encyclopedic/20220318212514-nfc|NFC]] - See 1.4
+  - Infrared
+  - USB
 - Point-to-point
 - Point-to-multipoint
 - MDM - Mobile device management
@@ -678,27 +678,27 @@
 ### 4.1 - Given a Scenario, Use the Appropriate Tool to Assess Organizational Security
 
 - File manipulation tools
-	- Head
-	- Tail
-	- Cat
-	- Grep
-	- Chmod
-	- Logger
+  - Head
+  - Tail
+  - Cat
+  - Grep
+  - Chmod
+  - Logger
 - Shell and script environments
-	- SSH
-	- Powershell
-	- Python
-	- OpenSSL
+  - SSH
+  - Powershell
+  - Python
+  - OpenSSL
 - Packet capture and replay tools
-	- Tcprelay
-	- Tcpdump
-	- Wireshark
+  - Tcprelay
+  - Tcpdump
+  - Wireshark
 - Forensic tools
-	- dd
-	- Memdump
-	- winHex
-	- FTP imager
-	- Autopsy
+  - dd
+  - Memdump
+  - winHex
+  - FTP imager
+  - Autopsy
 - Exploitation frameworks
 
 ### 4.2 - Summarize the Importance of Policies, Processes, and Procedures for Incident Response
@@ -725,11 +725,11 @@
 - Vulnerability scan output
 - SIEM dashboards
 - Syslog tools
-	- System logs
-	- Application
-	- Security
-	- Web service logs
-	- DNS
+  - System logs
+  - Application
+  - Security
+  - Web service logs
+  - DNS
 - SIP traffic
 - Journalctl
 - Nxllog
@@ -772,12 +772,12 @@
 - Operational controls
 - [[62-Encyclopedic/20220419111050-technical-controls|Technical controls]]
 - Control types
-	- Preventative
-	- Detective
-	- Corrective
-	- Deterrent
-	- Compensating
-	- Physical
+  - Preventative
+  - Detective
+  - Corrective
+  - Deterrent
+  - Compensating
+  - Physical
 
 ### 5.2 - Explain the Importance of Applicable Regulations, Standards, or Frameworks That Impact the Organizational Security Posture
 
