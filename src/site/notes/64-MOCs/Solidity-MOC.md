@@ -7,4 +7,4 @@
 
 ## Structure
 
-- All code are stored within a [Contract](../62-Encyclopedic/20220415192511-contract-in-solidity.md)
+- All code are stored within a [Contract](20220415192511-contract-in-solidity.md)
