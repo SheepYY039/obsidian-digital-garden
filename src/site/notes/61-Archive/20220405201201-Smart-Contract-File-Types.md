@@ -7,7 +7,7 @@
 
 ## Contract
 
-- Normal [Smart Contract](20220327121426%20Smart%20Contract.md)
+- Normal [Smart Contract](20220327121426-Smart-Contract.md)
 - All functions have been implemented
 
 ## Abstrack Contract
