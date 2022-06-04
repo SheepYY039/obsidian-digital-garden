@@ -7,22 +7,22 @@
 
 > Stay Practical
 
-There are a few common areas of focus in [Information Security](20220419105949-Information-Security.md):
+There are a few common areas of focus in [[62-Encyclopedic/20220419105949-information-security|20220419105949-Information-Security]]:
 
-- Areas of Focus in [InfoSec](20220419105949-information-security.md)
+- Areas of Focus in [[62-Encyclopedic/20220419105949-information-security|20220419105949-information-security]]
   - Hacking Computers
   - Website Security
   - Cybersecurity Law
   - Sales Engineer
   - Cloud Security
   - Programming
-- [InfoSec Jobs](20220419100219-InfoSec-Jobs.md)
-- Teaching myself [infosec](20220419105949-information-security.md)
-  - [20220419102952 Skills required in InfoSec](20220419102952-Skills-required-in-InfoSec.md)
+- [[62-Encyclopedic/20220419100219-infosec-jobs|20220419100219-InfoSec-Jobs]]
+- Teaching myself [[62-Encyclopedic/20220419105949-information-security|20220419105949-information-security]]
+  - [[62-Encyclopedic/20220419102952-skills-required-in-infosec|20220419102952-Skills-required-in-InfoSec]]
 
 ## Some Resources
 
-- [List of Resources > INFOSEC](List-of-Resources#INFOSEC)
+- [[64-MOCs/List-of-Resources#INFOSEC|List-of-Resources#INFOSEC]]
 - [資訊安全網: 保安證書](https://www.infosec.gov.hk/tc/useful-resources/security-certifications)
 
 ## Certifications
@@ -31,7 +31,6 @@ There are a few common areas of focus in [Information Security](20220419105949-I
 2. [ ] COMPTIA Net+
 3. [ ] COMP TIA Sec+
    1. Knows the words the industry uses
-   2.
 4. [ ] COMPTIA PenTest+
 5. [ ] eLearnSecurity EJPT
 6. [ ] eCPPT
