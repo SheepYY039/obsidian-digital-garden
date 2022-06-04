@@ -19,7 +19,7 @@ $$
 
 ## Horizontal Axis of Revolution
 
-![[w/ 3 Powerful Examples!)](w/-3-Powerful-Examples!|How To Use The Shell Method? (w/ 3 Powerful Examples!)]])
+![[w/-3-Powerful-Examples!|How To Use The Shell Method? (w/ 3 Powerful Examples!]]]])
 
 $$
 
