@@ -12,5 +12,7 @@
 >     - 然後他就可以想鍵盤一樣輸入任何他想輸入的東西
 > - 但是鍵盤不會需要 extra rights or permissions 
 > - 一鏈接，他就會開啓 命令行，然後開始下載 [[62-Encyclopedic/20220516095203-malware|malware]] 
+<!--ID: 1654406587957-->
+
 
 [^1]: Human Interface Device  
