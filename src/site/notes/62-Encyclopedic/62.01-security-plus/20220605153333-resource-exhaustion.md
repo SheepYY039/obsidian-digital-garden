@@ -17,7 +17,7 @@
 > [!example] Resource Exhaustion 
 > **DHCP Starvation**
 > - Attacker floods a network with IP Address requests 
-> - MAC Address changes each time 
+> - [[62-Encyclopedic/62.01-security-plus/20220605180300-media-access-control-address|MAC Address]] changes each time 
 > - DHCP server eventually runs out of addresses 
 > 
 > Switch configurations can rate limit DHCP requests 
