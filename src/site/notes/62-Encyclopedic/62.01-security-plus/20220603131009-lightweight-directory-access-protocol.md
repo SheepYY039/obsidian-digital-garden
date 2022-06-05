@@ -8,3 +8,5 @@
 >[!word] Lightweight Directory Access Protocol [LDAP] #protocol
 > - A protocol created by the telephone companies
 > - Now used by almost everyone 
+<!--ID: 1654406587897-->
+
