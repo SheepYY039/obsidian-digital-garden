@@ -12,7 +12,7 @@
 
 >[!example] Downgrade attack 
 >2014 - [[62-Encyclopedic/62.01-security-plus/20220605142819-secure-sockets-layer|TLS]] Vulnerability POODLE [^1] 
->- On-path attack 
+>- [[62-Encyclopedic/62.01-security-plus/20220605173141-on-path-network-attack|On-path attack]] 
 >- Forces clients to fallback to [[62-Encyclopedic/62.01-security-plus/20220605142819-secure-sockets-layer|SSL]] 3.0 
 >- [[62-Encyclopedic/62.01-security-plus/20220605142819-secure-sockets-layer|SSL]] 3.0 has significant cryptographic vulnerabilities 
 >- Because of POODLE, modern broswers won't fallback to [[62-Encyclopedic/62.01-security-plus/20220605142819-secure-sockets-layer|SSL]] 3.0
