@@ -153,7 +153,7 @@
 	- [[62-Encyclopedic/62.01-security-plus/20220605183721-mac-cloning|MAC cloning]] 
 - DNS 
 	- Domain Hijacking 
-	- DNS poisoning 
+	- [[62-Encyclopedic/62.01-security-plus/20220605184957-dns-poisoning|DNS poisoning]] 
 	- URL redirection 
 	- Domain reputation 
 - DDoS 
