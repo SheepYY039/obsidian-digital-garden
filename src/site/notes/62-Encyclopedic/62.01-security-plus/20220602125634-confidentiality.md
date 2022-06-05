@@ -9,6 +9,8 @@
 > Prevents the unauthorized disclosure of data.  
 > 确保数据不会未经允许就被揭露。
 > - 只是 authorized personnel 可以 access 哪些数据
+<!--ID: 1654406588011-->
+
 
 ## 怎么确保机密性？
 
