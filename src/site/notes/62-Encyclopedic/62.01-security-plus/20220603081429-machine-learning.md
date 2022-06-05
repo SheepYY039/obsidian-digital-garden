@@ -8,6 +8,8 @@
 >[!word] Machine Learning #adversarial-AI
 > 電腦自動尋找 patterns in data，並 improve their predictions 
 > - 需要很多 data 
+<!--ID: 1654406587926-->
+
 
 ## ML In Security
 
