@@ -11,6 +11,8 @@
 > - One of the most common web application development errors 
 >     - takes advantages of the trust a user has for a site 
 >     - Complex and varied 
+<!--ID: 1654406587911-->
+
 
 - A very common vulnerability 
 
