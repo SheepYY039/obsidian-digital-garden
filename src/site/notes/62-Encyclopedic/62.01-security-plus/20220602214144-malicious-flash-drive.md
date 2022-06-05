@@ -11,6 +11,8 @@
 > - “不，你不想”
 > 
 > 舊一些的系統會自動 mount 並運行 USB，但是現在都被默認關閉或移除了
+<!--ID: 1654406587951-->
+
 
 >[!warning] Possible problems in a USB 
 > - 一些內陷與文件裏的 malware 
