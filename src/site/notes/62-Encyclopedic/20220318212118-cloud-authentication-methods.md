@@ -18,7 +18,7 @@ There are a few different ways cloud service providers
    4. hardware authentication device connected via
    5. USB[^2]
    6. Bluetooth
-   7. [[62-Encyclopedic/20220318212514-nfc|NFC]]
+   7. [[62-Encyclopedic/20220318212514-near-field-communicaiton|NFC]]
 3. Using something they are
    1. Physical Biometrics
    1. Fingerprint reader authentication
