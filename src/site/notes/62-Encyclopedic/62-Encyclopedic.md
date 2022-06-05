@@ -134,5 +134,4 @@
 -  [[62-Encyclopedic/20220518110600-c-details|C++ Details]]
 -  [[62-Encyclopedic/20220520125902-on-demand-delivery|On Demand Delivery]]
 -  [[62-Encyclopedic/20220520125934-pay-as-you-go|Pay-as-you-go]]
--  [[62-Encyclopedic/20220605165734-nfc-attack|NFC Attack]]
 
