@@ -9,6 +9,8 @@
 >让 第三者 有基本上 完全 的 远程控制 
 > - 通常 [[62-Encyclopedic/62.01-security-plus/20220602145709-backdoor|后门]] 会安装
 > - "The Ultimate [[62-Encyclopedic/62.01-security-plus/20220602145709-backdoor|Backdoor]]"
+<!--ID: 1654406587991-->
+
 
 - How to prevent? -> [[62-Encyclopedic/62.01-security-plus/20220602143703-trojan#Preventing Trojans|20220602143703-trojan#Preventing Trojans]]
 
