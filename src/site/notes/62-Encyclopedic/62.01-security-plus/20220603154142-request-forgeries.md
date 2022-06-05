@@ -5,5 +5,5 @@
 
 # Request Forgeries
 
-1. Server-side request forgeries 
-2. Cross-site request forgeries  
+1. [[62-Encyclopedic/62.01-security-plus/20220605135019-server-side-request-forgery|Server-side Request Forgery]]
+2. [[62-Encyclopedic/62.01-security-plus/20220605133353-cross-site-request-forgery|Cross-site Request Forgeries]] 
