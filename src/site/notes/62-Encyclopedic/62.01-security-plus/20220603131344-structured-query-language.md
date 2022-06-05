@@ -7,3 +7,5 @@
 
 >[!word] Structured Query Language [SQL] #language 
 > Commonly used to manage relational databases and perform various operations on the data in them. 
+<!--ID: 1654406587884-->
+
