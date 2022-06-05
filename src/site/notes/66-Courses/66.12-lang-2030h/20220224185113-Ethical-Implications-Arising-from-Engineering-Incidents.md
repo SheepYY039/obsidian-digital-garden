@@ -3,11 +3,11 @@
 ---
 
 
-# Ethical Implications Arising From Engineering Incidents
+# Ethical Implications Arising From [[66-Courses/66.12-lang-2030h/20220224185016-Engineering-Incidents|Engineering Incidents]]
 
 ## Case Study
 
-- Incident at Morales
+- [[66-Courses/66.12-lang-2030h/20220224185416-Incident-at-Morales|Incident at Morales]]
 
 ## Useful Questions When Discussing Ethical Implications of Engineering Cases
 
