@@ -9,7 +9,7 @@
 -  [[62-Encyclopedic/62.01-security-plus/62.01-security-plus|62.01-security-plus]]
 -  [[62-Encyclopedic/20220318212008-cloud-authentication|Cloud Authentication]]
 -  [[62-Encyclopedic/20220318212118-cloud-authentication-methods|Cloud Authentication Methods]]
--  [[62-Encyclopedic/20220318212514-nfc|Near-field Communication]]
+-  [[62-Encyclopedic/20220318212514-near-field-communicaiton|Near-field Communication]]
 -  [[62-Encyclopedic/20220318212854-least-privilege|Least Privilege]]
 -  [[62-Encyclopedic/20220318214141-multi-factor-authentication|Multi-factor Authentication]]
 -  [[62-Encyclopedic/20220318222441-benefits-of-cloud-computing|Benefits of Cloud Computing]]
@@ -134,4 +134,5 @@
 -  [[62-Encyclopedic/20220518110600-c-details|C++ Details]]
 -  [[62-Encyclopedic/20220520125902-on-demand-delivery|On Demand Delivery]]
 -  [[62-Encyclopedic/20220520125934-pay-as-you-go|Pay-as-you-go]]
+-  [[62-Encyclopedic/20220605165734-nfc-attack|NFC Attack]]
 
