@@ -59,34 +59,43 @@
 - [[62-Encyclopedic/20220515195815-hybrid-warfare|Hybrid warfare]]
 - Principles of [[62-Encyclopedic/20220515203457-social-engineering|social engineering]]
 
-## 1.2 - Given a Scenario, Analyze Potential Indicators to Determine the Type of Attack
+### 1.2 - Given a Scenario, Analyze Potential Indicators to Determine the Type of Attack
 
 - [[62-Encyclopedic/20220516095203-malware|Malware]]
-- [[62-Encyclopedic/20220516120133-ransomware|Ransomware]]
-- [[62-Encyclopedic/62.01-security-plus/20220602143703-trojan|Trojan]]
-- [[62-Encyclopedic/20220516114123-worm|Worm]]
-- [[62-Encyclopedic/62.01-security-plus/20220602144849-potentially-unwanted-program|PUPs]]
-- Fileless virus
-- [[62-Encyclopedic/62.01-security-plus/20220602180039-command-and-control-server|Command and Control]]
-- [[62-Encyclopedic/62.01-security-plus/20220602172655-bots|Bots]] and [[62-Encyclopedic/62.01-security-plus/20220602175910-botnet|botnets]]
-- [[62-Encyclopedic/20220516121559-crypto-malware|Crypto malware]]
-- [[62-Encyclopedic/62.01-security-plus/20220602181632-logic-bomb|Logic bombs]]
-- [[62-Encyclopedic/62.01-security-plus/20220602171640-spyware|Spyware]]
-- [[62-Encyclopedic/62.01-security-plus/20220602171234-adware|Adware]]
-- Keyloggers
-- [[62-Encyclopedic/62.01-security-plus/20220602150504-remote-access-trojan|RAT]]
-- [[62-Encyclopedic/62.01-security-plus/20220602151719-rootkit|Rootkit]]
-- [[62-Encyclopedic/62.01-security-plus/20220602145709-backdoor|Backdoor]] attacks
+	- [[62-Encyclopedic/20220516120133-ransomware|Ransomware]]
+	- [[62-Encyclopedic/62.01-security-plus/20220602143703-trojan|Trojan]]
+	- [[62-Encyclopedic/20220516114123-worm|Worm]]
+	- [[62-Encyclopedic/62.01-security-plus/20220602144849-potentially-unwanted-program|PUPs]]
+	- Fileless virus
+	- [[62-Encyclopedic/62.01-security-plus/20220602180039-command-and-control-server|Command and Control]]
+	- [[62-Encyclopedic/62.01-security-plus/20220602172655-bots|Bots]] and [[62-Encyclopedic/62.01-security-plus/20220602175910-botnet|botnets]]
+	- [[62-Encyclopedic/20220516121559-crypto-malware|Crypto malware]]
+	- [[62-Encyclopedic/62.01-security-plus/20220602181632-logic-bomb|Logic bombs]]
+	- [[62-Encyclopedic/62.01-security-plus/20220602171640-spyware|Spyware]]
+	- [[62-Encyclopedic/62.01-security-plus/20220602171234-adware|Adware]]
+	- Keyloggers
+	- [[62-Encyclopedic/62.01-security-plus/20220602150504-remote-access-trojan|RAT]]
+	- [[62-Encyclopedic/62.01-security-plus/20220602151719-rootkit|Rootkit]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220602145709-backdoor|Backdoor]] attacks
 - [[62-Encyclopedic/62.01-security-plus/20220602184323-password-attack|Password Attacks]]
   - [[62-Encyclopedic/62.01-security-plus/20220602185533-spraying-attack|Spraying]] and stuffing
   - [[62-Encyclopedic/62.01-security-plus/20220602204704-dictionary-attack|Dictionary attacks]]
   - [[62-Encyclopedic/62.01-security-plus/20220602203501-brute-force-attck|Brute-force attack]]
-  - Online vs. Offline password cracking
+	- Online vs. Offline password cracking
   - [[62-Encyclopedic/62.01-security-plus/20220602205318-rainbow-tables|Rainbow tables]]
-- Malicious USB cables and flash drives
-- [[62-Encyclopedic/62.01-security-plus/20220602215809-card-cloning|Card cloning]] and [[62-Encyclopedic/62.01-security-plus/20220602214930-skimming|skimming]]
-- Adversarial AI
-- Supply chain attacks
+- [[62-Encyclopedic/62.01-security-plus/20220602213613-physical-attacks|Physical Attacks]] 
+	- Malicious USB cables and flash drives
+	- [[62-Encyclopedic/62.01-security-plus/20220602215809-card-cloning|Card cloning]] and [[62-Encyclopedic/62.01-security-plus/20220602214930-skimming|skimming]]
+	- Adversarial AI 
+		- [[62-Encyclopedic/62.01-security-plus/20220603081841-poisoning-the-ml-training-data|Poisoning the ML training data]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220603085818-supply-chain-attack|Supply Chain Attack]]
+- [[62-Encyclopedic/62.01-security-plus/20220603094547-cloud-based-or-on-premises-storage|Cloud-based or On-premises storage]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220603094449-cloud-based-attack|Cloud-based attack]]
+	- [[62-Encyclopedic/62.01-security-plus/20220603094434-on-premises-attack|On-premises attack]]
+- [[62-Encyclopedic/62.01-security-plus/20220603095857-cryptographic-attack|Cryptographic Attack]]
+	- [[62-Encyclopedic/62.01-security-plus/20220603100306-birthday-attack|Birthday Attack]]
+	- [[62-Encyclopedic/62.01-security-plus/20220603100456-hash-collision|Hash Collision]]
+	- [[62-Encyclopedic/62.01-security-plus/20220603101024-downgrade-attack|Downgrade attack]]
 
 ### 1.3 - Given the Scenario, Analyze Potential Indicators Associated with Application Attacks
 
@@ -96,103 +105,119 @@
 - [[62-Encyclopedic/62.01-security-plus/20220603113047-cross-site-scripting#Protecting Against XSS|XSS prevention]]
 - Metacharacters
 - [[62-Encyclopedic/62.01-security-plus/20220603120659-injection-attacks|Injection attacks]]
-  - Command injection
   - [[62-Encyclopedic/62.01-security-plus/20220603120721-code-injection|Code injection]]
-  - HTML injection
-  - File injection
   - [[62-Encyclopedic/62.01-security-plus/20220603130513-sql-injection|SQL injection]]
-  - [[62-Encyclopedic/62.01-security-plus/20220603134318-dynamic-link-library|DLL]] injection
+  - [[62-Encyclopedic/62.01-security-plus/20220603134401-dll-injection|DLL Injection]] 
   - [[62-Encyclopedic/62.01-security-plus/20220603130937-ldap-injection|LDAP injection]]
   - [[62-Encyclopedic/62.01-security-plus/20220603130658-xml-injection|XML injection]]
-- Pointer dereference
-- Directory traversal
-- Buffer overflows
-- DEP
-- ASLR
-- Unbounded C++ functions
-- Race conditions
-- TOCTOU
-- Error handling
-- Improper error handling
-- Input handling
+- [[62-Encyclopedic/62.01-security-plus/20220605150929-memory-vulnerabilities#NULL Pointer Dereference|Pointer Dereference]] 
+- [[62-Encyclopedic/62.01-security-plus/20220605151730-directory-traversal|Directory traversal]]
+- [[62-Encyclopedic/62.01-security-plus/20220603135105-buffer-overflow|Buffer overflow]]
+- [[62-Encyclopedic/62.01-security-plus/20220605144616-race-condition|Race conditions]]
+- [[62-Encyclopedic/62.01-security-plus/20220605144758-time-of-check-to-time-of-use-attack|TOCTOU]] 
+- Error handling 
+	- [[62-Encyclopedic/62.01-security-plus/20220605152550-improper-error-handling|Improper error handling]] 
+- [[62-Encyclopedic/62.01-security-plus/20220605152826-improper-input-handling|Improper Input Handling]]
 - [[62-Encyclopedic/62.01-security-plus/20220603140229-replay-attack|Replay attack]]
-- Wireless replay attack
-- Session replay
-- Integer overflow
+	- Wireless replay attack
+	- Session replay
+- [[62-Encyclopedic/62.01-security-plus/20220605150929-memory-vulnerabilities#Integer Overflow|Integer Overflows]] 
 - [[62-Encyclopedic/62.01-security-plus/20220603154142-request-forgeries|Request forgeries]]
-- SSRF
-- XSRF
-- API attack
-- Resource exhaustion
-- Memory leaks
-- SSL Stripping
-- Driver manipulation
-- Shimming
-- Refactoring
-- Pass the hash
+	- [[62-Encyclopedic/62.01-security-plus/20220605135019-server-side-request-forgery|SSRF]]
+	- [[62-Encyclopedic/62.01-security-plus/20220605133353-cross-site-request-forgery|XSRF]]
+- [[62-Encyclopedic/62.01-security-plus/20220605153114-api-attack|API attack]]
+- [[62-Encyclopedic/62.01-security-plus/20220605153333-resource-exhaustion|Resource exhaustion]]
+- [[62-Encyclopedic/62.01-security-plus/20220605150929-memory-vulnerabilities#Memory Leak|Memory Leaks]] 
+- [[62-Encyclopedic/62.01-security-plus/20220605142208-ssl-stripping|SSL Stripping]]
+- [[62-Encyclopedic/62.01-security-plus/20220605140218-driver-manipulation|Driver manipulation]]
+	- [[62-Encyclopedic/62.01-security-plus/20220605140856-shimming|Shimming]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220605141505-refactoring|Refactoring]]
+- Pass the hash 
 
 ### 1.4 - Given the Scenario, Analyze Potential Indicators Associated with Network Attacks
 
-- Wireless scanners/crackers
-- Evil twin attacks
-- Roque access points
-- Bluesnarfing
-- Bluebugging
-- Bluejacking
-- Bluesniffing
-- Bluesmacking
-- Disassociation
-- Jamming
-- RFID
-- [[62-Encyclopedic/20220318212514-nfc|NFC]]
-- Initialization vector (IV)
-- On-path attacks
-- HTTP [[62-Encyclopedic/62.01-security-plus/20220603152000-header-manipulation|header manipulation]]
-- ARP poisoning
-- MAC flooding
-- MAC cloning/spoofing
-- IP spoofing
-- DNS
-- Domain hijacking
-- DNS poisoning
-- URL redirection
-- Domain reputation
-- DoS
-- DDoS
-- DRDoS
-- Smurf attack
-- Fraggle attack
-- SYN flood
-- Ping of death
-- Xmas attacks
-- Teardrop attacks
-- Land attacks
-- Amplification attacks
-- Malicious code/script execution
-- Powershell
-- Python
-- Bash
-- Macros
-- VBA
+- Wireless Attacks 
+	- [[62-Encyclopedic/62.01-security-plus/20220605154444-wireless-evil-twin|Wireless Evil Twin]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220605154002-rogue-access-points|Rogue Access Points]]
+	- [[62-Encyclopedic/62.01-security-plus/20220605155600-bluesnarfing|Bluesnarfing]]
+	- [[62-Encyclopedic/62.01-security-plus/20220605155111-bluejacking|Bluejacking]]
+	- [[62-Encyclopedic/62.01-security-plus/20220605155915-wireless-disassociation-attacks|Wireless Disassociation]]
+	- [[62-Encyclopedic/62.01-security-plus/20220605162930-wireless-jamming|Wireless Jamming]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220605164405-rfid-attack|RFID Attack]]
+	- [[62-Encyclopedic/20220605165734-nfc-attack|NFC Attack]]
+	- Initialization vector (IV)
+- On-path attacks 
+- Layer 2 Attacks 
+	- ARP poisoning 
+	- MAC flooding 
+	- MAC cloning 
+- DNS 
+	- Domain Hijacking 
+	- DNS poisoning 
+	- URL redirection 
+	- Domain reputation 
+- DDoS 
+	- Network DDoS 
+	- Application DDoS 
+	- OT DDoS 
+- Malicious code or Script Execution 
+	- PowerShell 
+	- Python 
+	- Bash 
+	- Macros 
+	- VBA 
 
 ### 1.5 - Explain Different Threat Actors, Vectors, and Intelligence Sources
 
 - Actors and threats
-- APT
-- Insider risks
-- State actors
-- Hacktivist
-- Script kiddies
-- Hackers
-- Shadow IT
-- Threat and attack vector
-- Threat intelligence sources
-- Open-source intelligence
-- Dark web
-- Indicators of compromise
-- AIS
-- STIX/TAXII
-- TTP
+	- APT
+	- Insider threats
+	- State actors
+	- Hacktivist
+	- Script kiddies
+	- Criminal syndicates 
+	- Hackers 
+		- Authorized 
+		- unauthorized 
+		- Semi-authorized 
+	- Shadow IT
+	- Competitors
+- Attributes of actors 
+	- Internal/ External 
+	- Level of sophistication/ Capability 
+	- Resources/ funding 
+	- Intent/ Motivation 
+- Vectors 
+	- Direct access 
+	- Wireless 
+	- Email 
+	- Supply chain 
+	- Social Media 
+	- Removable Media 
+	- Cloud 
+- Threat intelligence sources 
+	- OSINT 
+	- Cloud/ Proprietary 
+	- Vulnerability databases 
+	- Public/ private information sharing centers 
+	- Dark web 
+	- Indicators of compromise 
+	- AIS 
+		- STIX 
+		- TAXII 
+	- Predictive analysis 
+	- Threat maps 
+	- File/ Code repositories 
+- Research sources 
+	- Vendor websites 
+	- Vulnerability feeds 
+	- Confrerences 
+	- Academic journals 
+	- RFC 
+	- Local industry groups 
+	- Social Media 
+	- Threat Feeds 
+	- TTP 
 
 ### 1.6 - Explain the Security Concerns Associated with Various Types of Vulnerabilities
 
@@ -256,7 +281,7 @@
   - Tokenization
   - Rights management
 - Data states
-- SSL/TLS
+- [[62-Encyclopedic/62.01-security-plus/20220605142819-secure-sockets-layer|SSL]]/[[62-Encyclopedic/62.01-security-plus/20220605142819-secure-sockets-layer|TLS]]
 - SSL/TLS inspection
 - Site resiliency
   - Hot site
@@ -491,14 +516,14 @@
 
 - Load balancers
   - Optimize infrastructure utilization
-    - Techniques
-      - Random choice
-      - Round robin
-      - Load monitoring
-      - Preferencing/weighted
-      - Least connections/traffic/latency
-      - Locality-based (geo)
-      - Locality-based (affinity)
+	- Techniques
+	  - Random choice
+	  - Round robin
+	  - Load monitoring
+	  - Preferencing/weighted
+	  - Least connections/traffic/latency
+	  - Locality-based (geo)
+	  - Locality-based (affinity)
 - Active/active
 - Active/passive
 - Network segmentation
@@ -560,7 +585,7 @@
   - Wifi
   - Bluetooth
   - ANT
-  - [[62-Encyclopedic/20220318212514-nfc|NFC]] - See 1.4
+  - [[62-Encyclopedic/20220318212514-near-field-communicaiton|NFC]] - See 1.4
   - Infrared
   - USB
 - Point-to-point
