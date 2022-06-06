@@ -15,7 +15,7 @@
 
 ### Memory Leak
 
-A great choice for creating a DoS 
+A great choice for creating a [[62-Encyclopedic/62.01-security-plus/20220606122813-denial-of-service|DoS]] 
 
 - Unused memory is not properly released 
 - Begins to slowly grow in size 
@@ -25,7 +25,7 @@ A great choice for creating a DoS
 ### NULL Pointer Dereference
 
 - When an attacker can make a program point to a NULL memory where nothing exists
-- Then application crashes, debug information is displayed, and DoS
+- Then application crashes, debug information is displayed, and [[62-Encyclopedic/62.01-security-plus/20220606122813-denial-of-service|DoS]]
 
 ### Integer Overflow
 
