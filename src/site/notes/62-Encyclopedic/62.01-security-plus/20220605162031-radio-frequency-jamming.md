@@ -6,7 +6,7 @@
 # Radio Frequency Jamming
 
 >[!word] Radio Frequency Jamming #wireless-jamming
-> Allows the attacker to distrupt the network and create a DoS 
+> Allows the attacker to distrupt the network and create a [[62-Encyclopedic/62.01-security-plus/20220606122813-denial-of-service|DoS]] 
 > 
 > - Happens when [[62-Encyclopedic/62.01-security-plus/20220605162251-signal-to-noise-ratio|signal-to-noise ratio]] at the receiving device is **decreased**
 > - Sometimes not intentional (Interference instead of Jamming)  
