@@ -10,7 +10,7 @@
 - Allowing invalid input can be devastating 
 	- [[62-Encyclopedic/62.01-security-plus/20220603130513-sql-injection|SQL injection]] 
 	- [[62-Encyclopedic/62.01-security-plus/20220603135105-buffer-overflow|Buffer Overflow]] 
-	- DoS 
+	- [[62-Encyclopedic/62.01-security-plus/20220606122813-denial-of-service|DoS]] 
 	- etc.
 
 > [!note] Improper Input Handling 
