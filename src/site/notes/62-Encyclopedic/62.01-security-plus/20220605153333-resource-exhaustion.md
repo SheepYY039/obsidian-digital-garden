@@ -6,13 +6,8 @@
 # Resource Exhaustion
 
 >[!word] Resource Exhaustion
-> A specialized DoS attack, may only require **one device** and **low bandwidths** 
+> A specialized [[62-Encyclopedic/62.01-security-plus/20220606122813-denial-of-service|DoS]] attack, may only require **one device** and **low bandwidths** 
 
-> [!example] Resource Exhaustion 
-> **ZIP bomb**
-> - A 42 kilobyte `.zip` compressed file 
-> - Uncompresses to 4.5 petabytes (4,500 terabytes)
-> - [[62-Encyclopedic/20220421233306-antivirus|Anti-virus]] will identify these 
 
 > [!example] Resource Exhaustion 
 > **DHCP Starvation**
