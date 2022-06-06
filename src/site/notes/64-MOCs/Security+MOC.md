@@ -51,7 +51,7 @@
 - [[62-Encyclopedic/62.01-security-plus/20220515163456-impersonation|Impersonation]]
 - [[62-Encyclopedic/62.01-security-plus/20220515173904-watering-hole-attack|Watering Hole Attack]]
 - [[62-Encyclopedic/62.01-security-plus/20220513184545-typosquatting|Typosquatting]]
-- URL Hijacking
+- [[62-Encyclopedic/62.01-security-plus/20220606115118-url-hijacking|URL Hijacking]]
 - Clickjacking
 - [[62-Encyclopedic/62.01-security-plus/20220603151623-sidejacking|Session hijacking]]
 - [[62-Encyclopedic/20220515195138-influence-campaign|Influence campaign]]
@@ -145,27 +145,27 @@
 	- [[62-Encyclopedic/62.01-security-plus/20220605162930-wireless-jamming|Wireless Jamming]] 
 	- [[62-Encyclopedic/62.01-security-plus/20220605164405-rfid-attack|RFID Attack]]
 	- [[62-Encyclopedic/62.01-security-plus/20220605165734-nfc-attack|NFC Attack]]
-	- Initialization vector (IV)
+	- Initialization vector (IV) -> [[62-Encyclopedic/62.01-security-plus/20220605172736-initialization-vector|Initialization Vector]]
 - [[62-Encyclopedic/62.01-security-plus/20220605173141-on-path-network-attack|On-path attacks]] 
 - Layer 2 Attacks 
 	- [[62-Encyclopedic/62.01-security-plus/20220605173652-arp-poisoning|ARP poisoning]] 
 	- [[62-Encyclopedic/62.01-security-plus/20220605180005-mac-flooding|MAC flooding]] 
 	- [[62-Encyclopedic/62.01-security-plus/20220605183721-mac-cloning|MAC cloning]] 
 - DNS 
-	- Domain Hijacking 
+	- [[62-Encyclopedic/62.01-security-plus/20220606114253-domain-hijacking|Domain Hijacking]] 
 	- [[62-Encyclopedic/62.01-security-plus/20220605184957-dns-poisoning|DNS poisoning]] 
 	- URL redirection 
-	- Domain reputation 
-- DDoS 
-	- Network DDoS 
-	- Application DDoS 
-	- OT DDoS 
-- Malicious code or Script Execution 
-	- PowerShell 
-	- Python 
-	- Bash 
-	- Macros 
-	- VBA 
+	- [[62-Encyclopedic/62.01-security-plus/20220606120418-domain-reputation|Domain reputation]] 
+- [[62-Encyclopedic/62.01-security-plus/20220606131444-distributed-denial-of-service|DDoS]] 
+	- Network DDoS -> [[62-Encyclopedic/62.01-security-plus/20220606131816-ddos-amplification|DDoS Amplification]]
+	- [[62-Encyclopedic/62.01-security-plus/20220606132932-application-dos|Application DDoS]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220606141705-operational-technology-dos|OT DDoS]] 
+- [[62-Encyclopedic/62.01-security-plus/20220606142437-malicious-scripts|Malicious code or Script Execution]] 
+	- PowerShell [[62-Encyclopedic/62.01-security-plus/20220606142437-malicious-scripts#PowerShell|20220606142437-malicious-scripts#PowerShell]]
+	- Python [[62-Encyclopedic/62.01-security-plus/20220606142437-malicious-scripts#Python|20220606142437-malicious-scripts#Python]]
+	- Bash [[62-Encyclopedic/62.01-security-plus/20220606142437-malicious-scripts#Shell Script|20220606142437-malicious-scripts#Shell Script]]
+	- Macros [[62-Encyclopedic/62.01-security-plus/20220606142437-malicious-scripts#Macros|20220606142437-malicious-scripts#Macros]]
+	- VBA [[62-Encyclopedic/62.01-security-plus/20220606142437-malicious-scripts#Visual Basic for Applications VBA|20220606142437-malicious-scripts#Visual Basic for Applications VBA]]
 
 ### 1.5 - Explain Different Threat Actors, Vectors, and Intelligence Sources
 
