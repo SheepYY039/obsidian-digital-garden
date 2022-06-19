@@ -15,3 +15,5 @@
 >     - Attacker sends noise to the network 
 >     - Attacker does not want your network to work 
 >     - So someone else cannot receive that wireless signal 
+<!--ID: 1654498554821-->
+
