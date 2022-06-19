@@ -9,7 +9,7 @@
 > Happens when an attacker forces a service to fail **by overloading the service** 
 >- Attackers take advantage of **design failure** or **vulnerability**
 >- Cause a system to be unavilable
->    - if a company's server is down, then its competitor can get more users.
+>    - if a company's server is down, then its [[62-Encyclopedic/62.01-security-plus/20220606155742-competitor|competitor]] can get more users.
 >- 轉移你的注意力（create a smokescreen for some other exploit）
 >        - 如果他們 take down 你的 DNS Server ，你的經歷會放在拯救 DNS Server 上
 >        - 可能就會忽略其他部分
@@ -17,6 +17,8 @@
 >- DoS can be very simple 
 >    - An attacker walking up to a building and pulling a power switch 
 >    - Thousands of users going on to a website at once 
+<!--ID: 1654498554788-->
+
 
 > [!warning] Prevent DoS 
 > 1. Keep your systems patched 
