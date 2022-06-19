@@ -28,7 +28,7 @@ Before introducing the questions
 
 **In class discussion**
 
-a) What do you think the most common causes are for a hacker attack on a home/workplace robot?
+a) What do you think the most common causes are for a [[62-Encyclopedic/62.01-security-plus/20220606153431-hacker|hacker]] attack on a home/workplace robot?
 
 b) How can engineers prevent a home/workplace robot being hacked?
 
