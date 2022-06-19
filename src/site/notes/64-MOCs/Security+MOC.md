@@ -170,42 +170,42 @@
 ### 1.5 - Explain Different Threat Actors, Vectors, and Intelligence Sources
 
 - Actors and threats
-	- APT
-	- Insider threats
-	- State actors
-	- Hacktivist
-	- Script kiddies
-	- Criminal syndicates 
-	- Hackers 
-		- Authorized 
-		- unauthorized 
-		- Semi-authorized 
-	- Shadow IT
-	- Competitors
+	- [[62-Encyclopedic/20220421233628-advanced-persistent-threats|APT]]
+	- [[62-Encyclopedic/62.01-security-plus/20220606151328-insider-threats|Insider threats]]
+	- [[62-Encyclopedic/62.01-security-plus/20220606151734-state-actors|State actors]]
+	- [[62-Encyclopedic/62.01-security-plus/20220606152410-hacktivist|Hacktivist]]
+	- [[62-Encyclopedic/62.01-security-plus/20220606152742-script-kiddies|Script kiddies]]
+	- Criminal syndicates -> [[62-Encyclopedic/62.01-security-plus/20220606153058-organized-crime|Organized Crime]]
+	- [[62-Encyclopedic/62.01-security-plus/20220606153431-hacker|Hackers]]
+		- [[62-Encyclopedic/62.01-security-plus/20220606153633-authorized-hacker|Authorized Hacker]] 
+		- [[62-Encyclopedic/62.01-security-plus/20220606153754-unauthorized-hacker|Unauthorized Hacker]]
+		- [[62-Encyclopedic/62.01-security-plus/20220606153914-semi-authorized-hacker|Semi-authorized hacker]]
+	- [[62-Encyclopedic/62.01-security-plus/20220606154226-shadow-it|Shadow IT]]
+	- [[62-Encyclopedic/62.01-security-plus/20220606155742-competitor|Competitor]] 
 - Attributes of actors 
 	- Internal/ External 
 	- Level of sophistication/ Capability 
 	- Resources/ funding 
 	- Intent/ Motivation 
-- Vectors 
-	- Direct access 
-	- Wireless 
-	- Email 
-	- Supply chain 
-	- Social Media 
-	- Removable Media 
-	- Cloud 
-- Threat intelligence sources 
-	- OSINT 
+- [[62-Encyclopedic/62.01-security-plus/20220606160112-attack-vectors|Attack Vectors]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220606161017-direct-access-attack-vectors|Direct access]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220606161823-wireless-attack-vectors|Wireless]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220606162426-email-attack-vectors|Email]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220606163025-supply-chain-attack-vectors|Supply chain]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220606164610-social-media-attack-vectors|Social media]]
+	- [[62-Encyclopedic/62.01-security-plus/20220606164855-removable-media-attack-vectors|Removable media]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220606165401-cloud-attack-vectors|Cloud]]  
+- [[62-Encyclopedic/62.01-security-plus/20220606165926-threat-intelligence|Threat intelligence]] sources 
+	- [[62-Encyclopedic/62.01-security-plus/20220606170400-open-source-intelligence|OSINT]] 
 	- Cloud/ Proprietary 
-	- Vulnerability databases 
+	- [[62-Encyclopedic/62.01-security-plus/20220606170850-vulnerability-databases|Vulnerability databases]] 
 	- Public/ private information sharing centers 
 	- Dark web 
-	- Indicators of compromise 
-	- AIS 
-		- STIX 
-		- TAXII 
-	- Predictive analysis 
+	- [[62-Encyclopedic/62.01-security-plus/20220606174026-indicators-of-compromise|Indicators of compromise]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220606173321-automated-indicator-sharing|AIS]] 
+		- [[62-Encyclopedic/62.01-security-plus/20220606173433-structured-threat-information-expression|STIX]] 
+		- [[62-Encyclopedic/62.01-security-plus/20220606173628-trusted-automated-exchange-of-indicator-information|TAXII]] 
+	- [[62-Encyclopedic/62.01-security-plus/20220606174348-predictive-analysis|Predictive analysis]] 
 	- Threat maps 
 	- File/ Code repositories 
 - Research sources 
@@ -236,7 +236,7 @@
 - Credentialed vs. non-credentialed
 - Intrusive vs. non-intrusive
 - SCAP
-- CVE
+- [[62-Encyclopedic/62.01-security-plus/20220606171007-common-vulnerabilities-and-exposures|CVE]]
 - CVSS
 - Configuration review
 - Syslog
@@ -261,7 +261,7 @@
 - Passive reconnaissance
 - Active reconnaissance
 - Wardriving
-- OSINT
+- [[62-Encyclopedic/62.01-security-plus/20220606170400-open-source-intelligence|OSINT]]
 - Exercise types
 
 ## Chapter 2, Architecture and Design
