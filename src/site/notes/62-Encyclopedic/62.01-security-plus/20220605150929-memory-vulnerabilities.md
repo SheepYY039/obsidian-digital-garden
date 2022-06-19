@@ -8,6 +8,8 @@
 >[!word] Memory Vulnerabilities #vulnerability 
 > Manipulating memory can be advantageous
 > - Relatively #difficult to accomplish 
+<!--ID: 1654498554833-->
+
 
 ## Cause of Memory Vulnerabilities
 
