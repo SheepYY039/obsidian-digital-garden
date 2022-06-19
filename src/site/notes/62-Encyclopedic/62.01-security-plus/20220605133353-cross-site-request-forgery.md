@@ -9,6 +9,8 @@
 > 利用一個 網頁 對用戶的 **信任** 去攻擊。
 > - Requests 在用戶不知情的情況下發生
 > - 攻擊者借用你的 credentials 去動手腳
+<!--ID: 1654498554863-->
+
 
 > [!example] Cross-site Request Forgery 
 > 一個攻擊者使用你**已登入的** 社交媒體帳號去發佈貼文
