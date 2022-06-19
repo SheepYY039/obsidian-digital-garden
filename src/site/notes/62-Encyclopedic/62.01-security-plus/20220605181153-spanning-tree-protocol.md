@@ -11,3 +11,5 @@
 > - Prevent broadcast radiation 
 > - Allows a network design to include backup links providing fault tolerance if an active link fails 
 > 
+<!--ID: 1654498554795-->
+
