@@ -8,7 +8,7 @@
 > [!word] Influence Campaign
 > 用不同渠道去尝试改变公众的观点（sway public opinion on political and social issues ）
 
-- Nation-state actors
+- [[62-Encyclopedic/62.01-security-plus/20220606151734-state-actors|Nation-state actors]]
   - Divide, distract, and persuade
 - Advertising is an option
   - Buy a voice for your opinion
