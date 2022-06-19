@@ -9,6 +9,8 @@
 > Happens when an attacker finds a vulnerable web application hosted on a server.
 > Attacker sends request to the web server, and web server performs the request on behalf of the attacker 
 > - Allows attacker to access services that would orginally be inaccessible (Only the server has access to)
+<!--ID: 1654498554851-->
+
 
 > [!example] SSRF 
 > ![SSRF Graphical](https://raw.githubusercontent.com/SheepYY039/PicGo-images/main/img/20220605135600.png)
